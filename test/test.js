@@ -2,7 +2,7 @@ import assert from 'assert';
 import sinon from 'sinon';
 import mockfs from 'mock-fs';
 import path from 'path';
-import precinct from 'precinct';
+import precinct from 'precinct-80';
 import rewire from 'rewire';
 import Config from '../lib/Config';
 

@@ -1,6 +1,6 @@
 'use strict';
 
-const precinct = require('precinct');
+const precinct = require('precinct-80');
 const path = require('path');
 const fs = require('fs');
 const cabinet = require('filing-cabinet');
